@@ -1,6 +1,6 @@
 # Adventure
 A GUI constructed in Java to play the text game 'Adventure'
-GameView is the main program, rest of the programs are used to create types for the main program. 
+GameView is the main program, rest of the programs object files used for the main program. 
 
 ## Author Information
 
